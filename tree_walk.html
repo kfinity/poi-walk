@@ -5,7 +5,7 @@
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@6.2.0/dist/maplibre-gl.css' />
-    <link rel='stylesheet' href='/js/maplibre-gl-compass/dist/maplibre-gl-compass.css' />
+    <link rel='stylesheet' href='js/maplibre-gl-compass/dist/maplibre-gl-compass.css' />
 
     <style>
         body { margin: 0; padding: 0; 
@@ -169,7 +169,7 @@
 
 <script type="module">
     import * as maplibregl from 'https://unpkg.com/maplibre-gl@6.2.0/dist/maplibre-gl.mjs';
-    import { CompassControl } from '/js/maplibre-gl-compass/dist/maplibre-gl-compass.js'
+    import { CompassControl } from 'js/maplibre-gl-compass/dist/maplibre-gl-compass.js'
 
     const urlParams = new URLSearchParams(window.location.search);
     const debug = urlParams.has('debug');
@@ -283,8 +283,8 @@
     // Select list of available POI walks
     const poiSourceControl = new SelectListControl({
       items: [
-        { value: '/data/bryan_tree_walk.geojson', label: 'Bryan Park' },
-        { value: '/data/byrd_tree_walk.geojson', label: 'Byrd Park Vita Course' },
+        { value: 'data/bryan_tree_walk.geojson', label: 'Bryan Park' },
+        { value: 'data/byrd_tree_walk.geojson', label: 'Byrd Park Vita Course' },
       ],
       onChange: (selectedValue) => {
         console.log('Selected value:', selectedValue);
@@ -553,7 +553,7 @@ Since last: ${getDistance(coords,lastpos)}; gh: ${geohist[0][0], geohist[0][1]}<
 
         map.addSource('pois', {
             type: 'geojson',
-            data: '/data/bryan_tree_walk.geojson'
+            data: 'data/bryan_tree_walk.geojson'
         });
         // add as markers
         addMarkers('pois');
