@@ -1,0 +1,799 @@
+{
+    "type": "FeatureCollection",
+    "features":
+    [
+        {
+        	"type": "Feature",
+            "id": "",
+            "properties":
+            {
+                "number": 0,
+                "description": "<h1>Joseph Bryan Park</h1><h2>Tree Tour</h2><p>This walking tour visits two dozen trees within a short walking distance of Shelter #1. The map shows the location of each tree. At each tree you will find a plaque with the tree's scientific name (first genus, then species, in Latin), its common name and a Quick Response code which enables a participant to obtain additional information. <i>Please watch out for Poison Ivy.</i></p><p style='font-size: 1em'>Original pamphlet produced by: <a href='http://www.friendsofbryanpark.org'>Friends of Bryan Park</a><br/>Originally researched and created by William Andrews & Friends of Bryan Park.<br/>Researched and revised by Wiley Mulholland & Friends of Bryan Park.<br/>Pamphlet designed by Christine Stoddard, Quail Bell Press & Productions</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.472632,
+                    37.5960369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034454",
+            "properties":
+            {
+                "@id": "13969034454",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Quercus velutina",
+                "species:en": "Black Oak",
+                "species:wikidata": "Q1001011",
+                "number": 1,
+                "description": "<p>A common Oak, native to eastern North America. Its leaves are a shiny green and have 5 to 7 spiny lobes. The fruit, an acorn that occurs singly or in clusters of two to five, is about one-half enclosed in a scaly cup and matures in 2 years. The inner bark is a bright yellow or orange, which typically helps identify the tree. Please DO NOT slash into the bark to see the yellow-orange wood!</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.472491,
+                    37.5958781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034455",
+            "properties":
+            {
+                "@id": "13969034455",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Liriodendron tulipifera",
+                "species:en": "Tulip Poplar",
+                "species:wikidata": "Q158783",
+                "number": 2,
+                "description": "<p>Also called a Yellow Poplar or Tulip Tree, it is native to North America and related to Magnolias. It is the largest eastern hardwood, reaching heights of up to 160 feet. It tends to grow with a straight, vertical trunk and a high crown of branches. The leaves are simple 4-lobed stars, about 6 inches in length. In April, it develops a small tulip-like flower, with pale yellow and green petals, with orange at the base. Do they remind you of magnolia flowers, a little?</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4723981,
+                    37.5957717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034456",
+            "properties":
+            {
+                "@id": "13969034456",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Liquidambar styraciflua",
+                "species:en": "American Sweetgum",
+                "species:wikidata": "Q469652",
+                "number": 3,
+                "description": "<p>Another common deciduous tree in the eastern US, recognizable for its five-pointed star-shaped leaves, similar to maples. It grows between 50 - 75 feet tall when cultivated but can reach 130 feet in the wild. It has a straight, vertical trunk and a high crown. Its fruit is the round, spiky gumball. Its lumber, somewhat hard, is used for furniture, veneer and interior trim, small carvings and toys. The leaves are pleasantly fragrant when crushed.</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4724448,
+                    37.5956695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034457",
+            "properties":
+            {
+                "@id": "13969034457",
+                "@type": "node",
+                "leaf_type": "needleleaved",
+                "natural": "tree",
+                "species": "Pinus virginiana",
+                "species:en": "Virginia Pine",
+                "species:wikidata": "Q3505749",
+                "number": 4,
+                "description": "<p>A medium-sized evergreen, 30 to 40 feet tall, with a ragged, flat-topped crown. It is native to Virginia. It likes poor soils in the east, and is also called the Scrub Pine. Its bark is reddish-brown and scaled. Its needles, in bundles of two, are 1 to 3 inches long and often twisted. Its cones, 1.5 to 2.5 inches long, have a prickle on each scale.</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4724611,
+                    37.5955896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034458",
+            "properties":
+            {
+                "@id": "13969034458",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Quercus virginiana",
+                "species:en": "Southern Live Oak",
+                "species:wikidata": "Q1758722",
+                "number": 5,
+                "description": "<p>An oak native to the south-eastern US, it is common in coastal areas. It is called the “live” oak because it is evergreen (actually losing its leaves when new leaves sprout in the early spring). Live Oaks can vary in size, from small trees, stunted and shaped by strong sea winds, to a maximum of 85 feet tall, often spread widely, 2 or 3 times their height. They have numerous, thick lower limbs, giving them a unique close-to-the-ground appearance, and have small dark acorns. Its leaves are long and slender, without the side lobes as on most oaks. In the south, they are draped with Spanish Moss.</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4725157,
+                    37.5949119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034459",
+            "properties":
+            {
+                "@id": "13969034459",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Juglans nigra",
+                "species:en": "Black Walnut",
+                "species:wikidata": "Q852572",
+                "number": 6,
+                "description": "<p>A native to Eastern North America, this flowering deciduous tree reaches heights between 50 and 90 feet. Its bark is brown to black and deeply furrowed; its compound leaves are long and alternate. The small compound flowers are in clusters, which become small nuts encased in thick green husks. These become dark brown when mature, and drop from the tree. The walnut meat inside is sweet and delicious. Early settlers would make a brown dye from the walnuts, and its dark wood is highly valued for furniture.</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4727562,
+                    37.5944691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034460",
+            "properties":
+            {
+                "@id": "13969034460",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Juglans nigra",
+                "species:en": "Black Walnut",
+                "species:wikidata": "Q852572",
+                "number": 6,
+                "description": "<p>A native to Eastern North America, this flowering deciduous tree reaches heights between 50 and 90 feet. Its bark is brown to black and deeply furrowed; its compound leaves are long and alternate. The small compound flowers are in clusters, which become small nuts encased in thick green husks. These become dark brown when mature, and drop from the tree. The walnut meat inside is sweet and delicious. Early settlers would make a brown dye from the walnuts, and its dark wood is highly valued for furniture.</p>"
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4727972,
+                    37.5943885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034461",
+            "properties":
+            {
+                "@id": "13969034461",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Acer saccharum",
+                "species:en": "Sugar Maple",
+                "species:wikidata": "Q214733",
+                "number": 7,
+                "description": "A native to the eastern US, it is a fairly large tree, reaching heights of 80 to 120 feet. Its large leaves have pronged lobes which turn a bright scarlet in autumn. Its seeds, in pairs, have small wings - look for the familiar helicopter seeds on the ground. Its hard wood is used for furniture, flooring, and even skateboards. Further north, its sap is collected for maple syrup."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4724392,
+                    37.5944444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034462",
+            "properties":
+            {
+                "@id": "13969034462",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Acer saccharum",
+                "species:en": "Sugar Maple",
+                "species:wikidata": "Q214733",
+                "number": 7,
+                "description": "A native to the eastern US, it is a fairly large tree, reaching heights of 80 to 120 feet. Its large leaves have pronged lobes which turn a bright scarlet in autumn. Its seeds, in pairs, have small wings - look for the familiar helicopter seeds on the ground. Its hard wood is used for furniture, flooring, and even skateboards. Further north, its sap is collected for maple syrup."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4723278,
+                    37.5944689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034464",
+            "properties":
+            {
+                "@id": "13969034464",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Acer saccharum",
+                "species:en": "Sugar Maple",
+                "species:wikidata": "Q214733",
+                "number": 7,
+                "description": "A native to the eastern US, it is a fairly large tree, reaching heights of 80 to 120 feet. Its large leaves have pronged lobes which turn a bright scarlet in autumn. Its seeds, in pairs, have small wings - look for the familiar helicopter seeds on the ground. Its hard wood is used for furniture, flooring, and even skateboards. Further north, its sap is collected for maple syrup."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4721877,
+                    37.5944898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034463",
+            "properties":
+            {
+                "@id": "13969034463",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Acer saccharum",
+                "species:en": "Sugar Maple",
+                "species:wikidata": "Q214733",
+                "number": 7,
+                "description": "A native to the eastern US, it is a fairly large tree, reaching heights of 80 to 120 feet. Its large leaves have pronged lobes which turn a bright scarlet in autumn. Its seeds, in pairs, have small wings - look for the familiar helicopter seeds on the ground. Its hard wood is used for furniture, flooring, and even skateboards. Further north, its sap is collected for maple syrup."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4721059,
+                    37.5945245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034465",
+            "properties":
+            {
+                "@id": "13969034465",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Quercus palustris",
+                "species:en": "Pin Oak",
+                "species:wikidata": "Q161253",
+                "number": 8,
+                "description": "Another native oak, it is a medium-sized tree, reaching heights of 50 to 80 feet. Its leaves are 5 to 7 lobed, sharply pointed teeth, with small acorns. Strangely, younger Pin Oaks retain their leaves year 'round, like evergreens. Upon maturation, they lose their leaves like deciduous trees. The Native Americans used the bark to make a drink to soothe intestinal pain."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4718021,
+                    37.5946584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034466",
+            "properties":
+            {
+                "@id": "13969034466",
+                "@type": "node",
+                "leaf_type": "needleleaved",
+                "natural": "tree",
+                "species": "Pinus resinosa",
+                "species:en": "Red Pine",
+                "species:wikidata": "Q2045958",
+                "number": 9,
+                "description": "The Red Pine is a coniferous evergreen characterized by tall, straight growth. When mature, it usually grows to 50-75 ft. but can reach 125 ft. or more, with a trunk around 3 - 3.5 feet in diameter. The leaves are soft and flexible evergreen needles, in clusters of two, slender, 4 - 6 inches long, dark green borne in dense tufts at the ends of branchlets. The species is self pruning; there tends not to be dead branches on the trees, and older trees may have very long lengths of branchless trunk below the canopy."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4714747,
+                    37.5945928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034467",
+            "properties":
+            {
+                "@id": "13969034467",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Quercus phellos",
+                "species:en": "Willow Oak",
+                "species:wikidata": "Q783224",
+                "number": 10,
+                "description": "Another Oak native, it can reach heights of 60 to 80 feet, and as it matures it attains a broad, rounded shape. Its leaves, long and slender rather than lobed, resembling those of a Willow Tree. The trunk can be 3 to 4 feet in diameter, and the bark grey to black. Its small, round acorns have a scaly, saucer-like cup. The wood, like the Black Oak, is orange and is often used for pulp and paper. These trees are often planted as street trees."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.471236,
+                    37.5946601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034471",
+            "properties":
+            {
+                "@id": "13969034471",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Ilex opaca",
+                "species:en": "American Holly",
+                "species:wikidata": "Q2712730",
+                "number": 11,
+                "description": "A tree native to the eastern US, this medium-sized evergreen has short branches and grows from 30 to 50 feet tall in a narrow, pyramidal form. The leaves are small with multiple spiny-toothed margins. On female trees, small, bright red, berry-like fruits last into winter, providing food for songbirds and other wildlife. The tree forms a thick canopy, so birds like to nest within it."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4709127,
+                    37.5948918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034470",
+            "properties":
+            {
+                "@id": "13969034470",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Ilex opaca",
+                "species:en": "American Holly",
+                "species:wikidata": "Q2712730",
+                "number": 11,
+                "description": "A tree native to the eastern US, this medium-sized evergreen has short branches and grows from 30 to 50 feet tall in a narrow, pyramidal form. The leaves are small with multiple spiny-toothed margins. On female trees, small, bright red, berry-like fruits last into winter, providing food for songbirds and other wildlife. The tree forms a thick canopy, so birds like to nest within it."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4710466,
+                    37.5949079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034469",
+            "properties":
+            {
+                "@id": "13969034469",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Ilex opaca",
+                "species:en": "American Holly",
+                "species:wikidata": "Q2712730",
+                "number": 11,
+                "description": "A tree native to the eastern US, this medium-sized evergreen has short branches and grows from 30 to 50 feet tall in a narrow, pyramidal form. The leaves are small with multiple spiny-toothed margins. On female trees, small, bright red, berry-like fruits last into winter, providing food for songbirds and other wildlife. The tree forms a thick canopy, so birds like to nest within it."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4711253,
+                    37.5949264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034468",
+            "properties":
+            {
+                "@id": "13969034468",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Ilex opaca",
+                "species:en": "American Holly",
+                "species:wikidata": "Q2712730",
+                "number": 11,
+                "description": "A tree native to the eastern US, this medium-sized evergreen has short branches and grows from 30 to 50 feet tall in a narrow, pyramidal form. The leaves are small with multiple spiny-toothed margins. On female trees, small, bright red, berry-like fruits last into winter, providing food for songbirds and other wildlife. The tree forms a thick canopy, so birds like to nest within it."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4712122,
+                    37.5949474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034472",
+            "properties":
+            {
+                "@id": "13969034472",
+                "@type": "node",
+                "leaf_type": "needleleaved",
+                "natural": "tree",
+                "species": "Pinus taeda",
+                "species:en": "Loblolly Pine",
+                "species:wikidata": "Q368248",
+                "number": 12,
+                "description": "The most common evergreen in the southeastern US, and the most common pine in Bryan Park. These trees reach heights of 100 to 120 feet, with a roundish, open crown. Needles come in bundles of three, are 6 to 9 inches long, slender and stiff and yellow-green. The scaly oval to conical cones are initially green but mature into a dark brown cone, 4 to 6 inches long. Be sure not to mix these up with the Virginia Pines, which have denser cones and shorter needles."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4714914,
+                    37.5950362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034473",
+            "properties":
+            {
+                "@id": "13969034473",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Carya glabra",
+                "species:en": "Pignut Hickory",
+                "species:wikidata": "Q1406355",
+                "number": 13,
+                "description": "Another native eastern US tree, it can reach heights of 100 feet. The long leaves, made up of 5 to (rarely) 7 leaflets, have very distinct veins. Its bark forms a rough,diamond-like pattern. It grows pear-shaped hickory nuts, which animals love to eat. Early settlers found the nuts to be bitter and fed them to their pigs instead, leading to the name “pignut”."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4719932,
+                    37.5952117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034474",
+            "properties":
+            {
+                "@id": "13969034474",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Quercus alba",
+                "species:en": "White Oak",
+                "species:wikidata": "Q469555",
+                "number": 14,
+                "description": "This is the most common oak tree in Virginia, and plentiful in Bryan Park (many of them thought to be planted by work crews during the Depression). Height 65 to 100 feet; its leaves are 4 to 8 inches long, with 7 or 9 rounded lobes. Its seeds are acorns with non-bitter meat, eaten by the Native Americans and much-loved by wildlife. Its timber is very versatile, used for building, barrels, and firewood."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4711101,
+                    37.5952442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034475",
+            "properties":
+            {
+                "@id": "13969034475",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Ulmus americana",
+                "species:en": "American Elm",
+                "species:wikidata": "Q469382",
+                "number": 15,
+                "description": "Native to the eastern part of North America, the American Elm is an extremely hardy tree that can withstand harsh winter temperatures. At maturity, the trunk supports a high, spreading canopy of branches to form a broad-spreading, fan-shaped crown. Leaves are alternate, 4–6 inches long, 2–3 inches wide, broadest at or below the middle with coarse, sawtooth edges. The American Elm is highly susceptible to Dutch Elm Disease, which is spread by elm bark beetles."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4710603,
+                    37.5959888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034476",
+            "properties":
+            {
+                "@id": "13969034476",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Nyssa sylvatica",
+                "species:en": "Black Gum",
+                "species:wikidata": "Q3179665",
+                "number": 16,
+                "description": "Black gum, also called black tupelo, is a tall tree with horizontal branches and a flat-topped crown. Young trees are pyramidal; older trees more oval. Leaves are alternate, simple, oval/elliptical, and lack teeth. In summer they are shiny dark green above and downy below. The fruit is a black-blue stone fruit that is very popular with small bird species."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4706685,
+                    37.5960825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034477",
+            "properties":
+            {
+                "@id": "13969034477",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Prunus serotina",
+                "species:en": "Black Cherry",
+                "species:wikidata": "Q158987",
+                "number": 17,
+                "description": "A native of the eastern US, this deciduous tree can be grown as an ornamental (its small flowers are white, clustered on a stem 4 to 6 inches long) and for its fruit, flavorful cherries with black skins and dark-purple flesh. Trees can grow up to 100 feet tall, with reddish-brown bark, smooth when young, becoming scarred and warty as it ages, scaly when old. The wood is prized for cabinetry and furniture."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4708522,
+                    37.5963095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034478",
+            "properties":
+            {
+                "@id": "13969034478",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Platanus occidentalis",
+                "species:en": "American Sycamore",
+                "species:wikidata": "Q157739",
+                "number": 18,
+                "description": "Also called the American Plane Tree. A native eastern US deciduous tree, it is often found around bodies of water. It grows tall, reaching heights of between 100 to 130 feet, and has a distinctive, smooth, gray-white bark. Its leaves are quite large, with 3 to 5 point ragged lobes. The unique seeds of the Sycamore are clustered in one-inch spherical “ button-balls” that hang on slender stems."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4711125,
+                    37.5963493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034479",
+            "properties":
+            {
+                "@id": "13969034479",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Acer rubrum",
+                "species:en": "Red Maple",
+                "species:wikidata": "Q161364",
+                "number": 19,
+                "description": "The Red Maple is a medium to large deciduous tree named for its distinctive red fall leaves, fruits, flowers and twigs. Its bark is smooth and grey but becomes scaly and dark grey as the tree gets older. Its leaves are 2.5 to 4 inches in length, with three to five pointed lobes that have serrated edges."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4714156,
+                    37.5961333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034480",
+            "properties":
+            {
+                "@id": "13969034480",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Quercus macrocarpa",
+                "species:en": "Bur Oak",
+                "species:wikidata": "Q1082365",
+                "number": 20,
+                "description": "The Bur Oak is a large deciduous tree that is native to Virginia and is one of the most massive Qaks with a trunk diameter of up to 10 ft. The leaves are broad, variable in shape, with a lobed margin. The acorns are very large, 1-2 inches long and ¾- 1½ inches broad, having a large cup that wraps much of the way around the nut, with large overlapping scales and often a fringe at the edge of the cup."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4722378,
+                    37.5968627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034481",
+            "properties":
+            {
+                "@id": "13969034481",
+                "@type": "node",
+                "leaf_type": "needleleaved",
+                "natural": "tree",
+                "species": "Pinus palustris",
+                "species:en": "Longleaf Pine",
+                "species:wikidata": "Q148542",
+                "number": 21,
+                "description": "A native of the southeastern US, this evergreen reaches heights of 80 to 120 feet. Its bark is dark orange-brown with large scaly plates, and its bright green needles, 8 to 18 inches long, come in bundles of three. This pine can be recognized by its white buds; its spiny cones are initially green, then mature into brown cones 6 to 10 inches long. Widely used for lumber, pulp, and resin."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4728853,
+                    37.5973416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034482",
+            "properties":
+            {
+                "@id": "13969034482",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Cornus florida",
+                "species:en": "Flowering Dogwood",
+                "species:wikidata": "Q887221",
+                "number": 22,
+                "description": "Flowering dogwood, known as the state tree and flower of Virginia, is a small deciduous tree, often wider than it is tall when mature. The flowers are small and inconspicuous. tightly clustered, but surrounded by 4 very showy, large, white (occasionally pink) bracts, 2 inches in diameter, appearing in mid-spring. The fruit is a shiny, oval red drupe, 1/4 to 1/2 inch long, in clusters of 3 to 5, maturing in fall."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.473254,
+                    37.5973946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034483",
+            "properties":
+            {
+                "@id": "13969034483",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Celtis laevigata",
+                "species:en": "Sugarberry Tree",
+                "species:wikidata": "Q1529852",
+                "number": 23,
+                "description": "The Sugarberry tree is medium-sized tree native to North America that occurs primarily along streams and in moist soils and floodplains. Its sweetish fruit is eaten by birds and rodents, helping to disperse the seeds. It has a broad crown formed by spreading branches that are often drooped. The bark is light gray in color and can be smooth or covered with corky warts."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4733701,
+                    37.5972714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "node/13969034484",
+            "properties":
+            {
+                "@id": "13969034484",
+                "@type": "node",
+                "leaf_type": "broadleaved",
+                "natural": "tree",
+                "species": "Carya tomentosa",
+                "species:en": "Mockernut Hickory",
+                "species:wikidata": "Q5047673",
+                "number": 24,
+                "description": "The Mockernut Hickory is a species of tree in the walnut family. The most abundant of the hickories, it is common in the eastern half of the United States. The underside of the leaves are covered with dense, short hairs which turn yellow in the Fall. The common name mockernut likely refers to the small unrewarding nut that resides inside of the thick shell."
+            },
+            "geometry":
+            {
+                "type": "Point",
+                "coordinates":
+                [
+                    -77.4731014,
+                    37.5967352
+                ]
+            }
+        }
+    ]
+}
