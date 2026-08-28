@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>test</title>
+    <title>Tree Walk</title>
     <meta charset='utf-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@6.2.0/dist/maplibre-gl.css' />
@@ -59,7 +59,7 @@
             color: #222;
             background: #fff;
         }
-        .debug-show {
+        #debug.debug-show {
             display: block;
         }
         .maplibregl-marker {
@@ -252,7 +252,7 @@
           enableHighAccuracy: true
       },
       fitBoundsOptions: {
-          maxZoom: 18,
+          maxZoom: 19,
       },
       trackUserLocation: true,
       showAccuracyCircle: true,
@@ -362,7 +362,8 @@
         let lastpos = usertrack_geojson.features[0].geometry.coordinates.at(-1); 
         geohist.push([lng, lat]);
         if (debug) {
-            screenLog(`Accuracy: ${acc}<br />(${coords})<br />
+            screenLog(`Zoom: ${map.getZoom()}<br>
+Accuracy: ${acc}<br />(${coords})<br />
 Distance moved: ${getDistance(coords,geohist[1])}<br />
 Since last: ${getDistance(coords,lastpos)}; gh: ${geohist[0][0], geohist[0][1]}<br />ut: ${lastpos}`);
         }
@@ -373,13 +374,17 @@ Since last: ${getDistance(coords,lastpos)}; gh: ${geohist[0][0], geohist[0][1]}<
         }
         if (poi_features.length > 0 && acc < 100) {
             // check all features to find the highest number which is currently in the accuracy circle
+            let changed = false;
             for (let i = currentPOI; i < poi_features.length; i++) {
                 const feat_coords = [poi_features[i].geometry.coordinates[0], poi_features[i].geometry.coordinates[1]]
                 if (i > currentPOI && getDistance(coords,feat_coords) < acc) {
                     currentPOI = i
+                    changed = true;
                 }
             }
-            set_current_poi(currentPOI);
+            if (changed) {
+                set_current_poi(currentPOI);
+            }
         }
         if (geohist.length >= 3) { 
             // check if the last 3 positions are within an accuracy circle (and further away from the last recorded position)
@@ -420,6 +425,8 @@ Since last: ${getDistance(coords,lastpos)}; gh: ${geohist[0][0], geohist[0][1]}<
             });
 
             set_current_poi(0, false);
+
+
 
         } catch (error) {
             console.log('Error: ', error)
