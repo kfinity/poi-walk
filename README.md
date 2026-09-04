@@ -6,4 +6,4 @@ The initial concept was for local "tree walks", where a park visitor can tour a 
 
 The code is mostly Maplibre GL JS. I did need to fork [maplibre-gl-compass](https://github.com/kfinity/maplibre-gl-compass) to get it to play nicely with Maplibre's geolocate control. 
 
-  - [Tree Walk demo](./tree_walk.html)
+  - [Tree Walk demo](https://kfinity.github.io/poi-walk/tree_walk.html)
