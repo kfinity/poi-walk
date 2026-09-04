@@ -632,6 +632,7 @@ Since last: ${getDistance(coords,lastpos)}; gh: ${geohist[0][0], geohist[0][1]}<
         // use the latest user pos if we're locked on and history exists
         if (document.querySelectorAll('.maplibregl-ctrl-geolocate-active').length > 0 && geohist.length > 0) { 
             lastpos = geohist.at(-1); 
+            face = 0;
         }
         // calculate bearing
         const hyp = getDistance(poipos, lastpos);
