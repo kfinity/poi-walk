@@ -4,3 +4,4 @@
 __*
 **/__pycache__
 !.gitignore
+qgis/

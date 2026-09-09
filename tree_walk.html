@@ -200,6 +200,7 @@
           const option = document.createElement('option');
           option.value = item.value;
           option.textContent = item.label;
+          option.selected = item.selected ?? false;
           this._select.appendChild(option);
         });
 
@@ -282,7 +283,8 @@
     // Select list of available POI walks
     const poiSourceControl = new SelectListControl({
       items: [
-        { value: './data/bryan_tree_walk.geojson', label: 'Bryan Park' },
+        { value: './data/belle_isle_tree_walk.geojson', label: 'Belle Isle' },
+        { value: './data/bryan_tree_walk.geojson', label: 'Bryan Park', selected: true },
         { value: './data/byrd_tree_walk.geojson', label: 'Byrd Park Vita Course' },
       ],
       onChange: (selectedValue) => {
@@ -649,7 +651,7 @@ Since last: ${getDistance(coords,lastpos)}; gh: ${geohist[0][0], geohist[0][1]}<
     	let html = '';
     	if (feat.properties.species) {
     		html += `<h1>${feat.properties["species:en"]}</h1>
-<h2>${feat.properties.species}</h2>`
+<h2>${ ((feat.properties.genus ?? "") + " " + feat.properties.species).trim() }</h2>`
     	}
     	html += `${feat.properties.description}`
     	return html
